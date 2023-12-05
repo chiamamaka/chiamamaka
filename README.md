@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on helping others
 - 📫 How to reach me chizazomz@gmail.com
 
-- psst i am only a child i do not have a phone number
+psst i am only a child i do not have a phone number
 
 <!---
 chiamamaka/chiamamaka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
