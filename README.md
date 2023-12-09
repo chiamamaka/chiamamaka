@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @chiamamaka
-- 👀 I’m interested in the keyboard
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on helping others
-
-
-
 
 <!---
 chiamamaka/chiamamaka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
